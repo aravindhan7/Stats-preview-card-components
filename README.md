@@ -16,7 +16,7 @@ This is a solution to the [Stats preview card component solution challenge on Fr
 
 ### Links
 
-- Solution URL: [https://github.com/aravindhan7/Interactive-rating-component]
+- Solution URL: [https://github.com/aravindhan7/Stats-preview-card-components]
 - Live Site URL: [https://aravindhan7.github.io/Interactive-rating-component]
 
 
